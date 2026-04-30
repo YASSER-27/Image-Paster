@@ -1,8 +1,17 @@
-# Image Paster Pro
+<p align="center">
+  <img src="icon/showcase.png" width="500" alt="Edit Img Tool Logo">
+  <h1 align="center">Image Paster</h1>
 
-Image Paster Pro is a professional and fast tool for Windows designed to simplify handling images copied to the clipboard. The program allows you to browse the history of images you have copied and drag and drop them directly into any other application.
+</p>
 
----
+
+
+Image Paster is a fast tool for Windows designed to simplify handling images copied to the clipboard. The program allows you to browse the history of images you have copied and drag and drop them directly into any other application.
+
+
+
+![gif_demo](icon/gif_demo.gif)
+
 
 ## Key Features
 
@@ -55,9 +64,9 @@ Developed by: **YASSER-27**
 GitHub: [https://github.com/YASSER-27](https://github.com/YASSER-27)
 
 ---
----
 
-# Image Paster Pro (بالعربية)
+
+# Image Paster
 
 Image Paster Pro هو أداة احترافية وسريعة لنظام ويندوز مصممة لتسهيل التعامل مع الصور المنسوخة في الحافظة. يتيح لك البرنامج استعراض تاريخ الصور التي قمت بنسخها، وسحبها وإفلاتها مباشرة في أي تطبيق آخر.
 
