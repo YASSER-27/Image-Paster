@@ -16,7 +16,7 @@ Image Paster is a fast tool for Windows designed to simplify handling images cop
 
 </p>
 
-![gif_demo](icon/gif_demo.gif)
+<img src="icon/gif_demo.gif" width="500" />
 
 
 ## Key Features
