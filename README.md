@@ -1,14 +1,20 @@
 <p align="center">
   <img src="icon/showcase.png" width="500" alt="Edit Img Tool Logo">
-  <h1 align="center">Image Paster</h1>
+  <h1 align="left">Image Paster</h1>
 
 </p>
 
 
-
 Image Paster is a fast tool for Windows designed to simplify handling images copied to the clipboard. The program allows you to browse the history of images you have copied and drag and drop them directly into any other application.
 
+<p align="left">
+<img src="https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=c-sharp&logoColor=239120" />
+<img src="https://img.shields.io/badge/.NET_6.0-181818?style=for-the-badge&logo=dotnet&logoColor=512BD4" /> 
+<a href="https://github.com/YASSER-27/Image-Paster/releases/tag/1.0.0">
+ <img src="https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge&logo=github" />
+</a>
 
+</p>
 
 ![gif_demo](icon/gif_demo.gif)
 
